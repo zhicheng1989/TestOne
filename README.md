@@ -6,3 +6,5 @@ try to learn how to use Git and Github
 
 add a new branch
 创建一个新的分支
+
+Use Visual Studio Code to edit
